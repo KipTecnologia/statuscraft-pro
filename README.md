@@ -1,8 +1,14 @@
 # StatusCraft Pro — Enterprise Uptime, SSL & Cron Monitoring Micro-SaaS
 
+![StatusCraft Pro Banner](./public/banner.jpg)
+
 > **Interactive Evaluation Demo & Showcase by [Kip Tecnologia](https://github.com/KipTecnologia)**  
 > **Live Demo:** [https://kiptecnologia.github.io/statuscraft-pro/](https://kiptecnologia.github.io/statuscraft-pro/)  
 > **Commercial Source Code (Next.js 15 + Prisma + Stripe + Docker):** [https://kiptecnologia.gumroad.com](https://kiptecnologia.gumroad.com)
+
+<p align="center">
+  <img src="./public/demo_preview.gif" alt="StatusCraft Pro Mobile & Desktop Interactive Demo" width="320" />
+</p>
 
 ---
 
